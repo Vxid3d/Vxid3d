@@ -15,7 +15,6 @@
 * 💻 Primarily coding in Python
 * ⚡ I use ZSH btw.
 * 🔧 Interested in coding, math, and video games.
-* 📚 Always learning something new
 
 ---
 
@@ -28,27 +27,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vxid3d&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vxid3d&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Vxid3d&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vxid3d&theme=tokyonight&row=1&column=6&margin-w=15" />
 </p>
 
 ---
